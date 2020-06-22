@@ -1,0 +1,11 @@
+D:\Archivos\Escritorio\EXAMEN Biblioteca\BEU Examen\bin\Debug\BEU Examen.dll.config
+D:\Archivos\Escritorio\EXAMEN Biblioteca\BEU Examen\bin\Debug\BEU Examen.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\BEU Examen\bin\Debug\BEU Examen.pdb
+D:\Archivos\Escritorio\EXAMEN Biblioteca\BEU Examen\bin\Debug\EntityFramework.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\BEU Examen\bin\Debug\EntityFramework.SqlServer.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\BEU Examen\bin\Debug\EntityFramework.xml
+D:\Archivos\Escritorio\EXAMEN Biblioteca\BEU Examen\bin\Debug\EntityFramework.SqlServer.xml
+D:\Archivos\Escritorio\EXAMEN Biblioteca\BEU Examen\obj\Debug\BEU Examen.csprojAssemblyReference.cache
+D:\Archivos\Escritorio\EXAMEN Biblioteca\BEU Examen\obj\Debug\BEU Examen.csproj.CopyComplete
+D:\Archivos\Escritorio\EXAMEN Biblioteca\BEU Examen\obj\Debug\BEU Examen.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\BEU Examen\obj\Debug\BEU Examen.pdb

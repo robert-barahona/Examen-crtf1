@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Categorias">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Libros" Relationship="Self.FK_Libros_Categorias" FromRole="Categorias" ToRole="Libros" />
+    <NavigationProperty Name="Videos" Relationship="Self.FK_Videos_Categorias" FromRole="Categorias" ToRole="Videos" />
+  </EntityType>
+  <EntityType Name="Libros">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="titulo" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="autor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="isbn" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_publicacion" Type="DateTime" Precision="0" />
+    <Property Name="numero_ejemplares" Type="Int32" />
+    <Property Name="id_categoria" Type="Int32" />
+    <NavigationProperty Name="Categorias" Relationship="Self.FK_Libros_Categorias" FromRole="Libros" ToRole="Categorias" />
+  </EntityType>
+  <EntityType Name="Videos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="titulo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_publicacion" Type="DateTime" Precision="0" />
+    <Property Name="formato" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="duracion" Type="Int32" />
+    <Property Name="id_categoria" Type="Int32" />
+    <NavigationProperty Name="Categorias" Relationship="Self.FK_Videos_Categorias" FromRole="Videos" ToRole="Categorias" />
+  </EntityType>
+  <Association Name="FK_Libros_Categorias">
+    <End Role="Categorias" Type="Self.Categorias" Multiplicity="0..1" />
+    <End Role="Libros" Type="Self.Libros" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categorias">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Libros">
+        <PropertyRef Name="id_categoria" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Videos_Categorias">
+    <End Role="Categorias" Type="Self.Categorias" Multiplicity="0..1" />
+    <End Role="Videos" Type="Self.Videos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categorias">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Videos">
+        <PropertyRef Name="id_categoria" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categorias" EntityType="Self.Categorias" />
+    <EntitySet Name="Libros" EntityType="Self.Libros" />
+    <EntitySet Name="Videos" EntityType="Self.Videos" />
+    <AssociationSet Name="FK_Libros_Categorias" Association="Self.FK_Libros_Categorias">
+      <End Role="Categorias" EntitySet="Categorias" />
+      <End Role="Libros" EntitySet="Libros" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Videos_Categorias" Association="Self.FK_Videos_Categorias">
+      <End Role="Categorias" EntitySet="Categorias" />
+      <End Role="Videos" EntitySet="Videos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

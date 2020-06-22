@@ -1,0 +1,92 @@
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\EXAMEN Biblioteca.dll.config
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\EXAMEN Biblioteca.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\EXAMEN Biblioteca.pdb
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\csc.exe
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\csc.exe.config
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\csc.rsp
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\csi.exe
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\csi.exe.config
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\csi.rsp
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.AppContext.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Collections.Immutable.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Console.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Globalization.Calendars.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.IO.Compression.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.IO.FileSystem.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Net.Http.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Net.Sockets.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Reflection.Metadata.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.ValueTuple.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Xml.XPath.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\vbc.exe
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\vbc.exe.config
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\vbc.rsp
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\VBCSCompiler.exe
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\roslyn\VBCSCompiler.exe.config
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\Antlr3.Runtime.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\BEU Examen.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\Microsoft.Web.Infrastructure.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\Newtonsoft.Json.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.Helpers.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.Mvc.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.Optimization.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.Razor.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.WebPages.Deployment.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.WebPages.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.WebPages.Razor.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\WebGrease.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\EntityFramework.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\BEU Examen.pdb
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\BEU Examen.dll.config
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.Helpers.xml
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.Mvc.xml
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.Optimization.xml
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.Razor.xml
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.WebPages.xml
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.WebPages.Deployment.xml
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\System.Web.WebPages.Razor.xml
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\Newtonsoft.Json.xml
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\Antlr3.Runtime.pdb
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\EntityFramework.xml
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\es\System.Web.Helpers.resources.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\es\System.Web.Mvc.resources.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\es\System.Web.Optimization.resources.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\es\System.Web.Razor.resources.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\es\System.Web.WebPages.resources.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\obj\Debug\EXAMEN Biblioteca.csprojAssemblyReference.cache
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\obj\Debug\EXAMEN Biblioteca.csproj.CopyComplete
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\obj\Debug\EXAMEN Biblioteca.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\obj\Debug\EXAMEN Biblioteca.pdb
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\EntityFramework.SqlServer.dll
+D:\Archivos\Escritorio\EXAMEN Biblioteca\EXAMEN Biblioteca\bin\EntityFramework.SqlServer.xml
