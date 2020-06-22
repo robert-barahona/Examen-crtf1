@@ -38,7 +38,7 @@ namespace EXAMEN_Biblioteca.Controllers
         // GET: Videos/Create
         public ActionResult Create()
         {
-            ViewBag.id_categoria = new SelectList(CategoriaBLL.List(), "id_categoria", "nombre");
+            ViewBag.id = new SelectList(CategoriaBLL.List(), "id", "nombre");
             return View();
         }
 

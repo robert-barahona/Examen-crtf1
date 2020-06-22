@@ -40,7 +40,7 @@ namespace EXAMEN_Biblioteca.Controllers
         // GET: Libros/Create
         public ActionResult Create()
         {
-            ViewBag.id_categoria = new SelectList(db.Categorias, "id_categoria", "nombre");
+            ViewBag.id = new SelectList(CategoriaBLL.List(), "id", "nombre");
             return View();
         }
 
